@@ -1,0 +1,18 @@
+.Main {
+  display: flex;
+  flex-direction: column;
+  width: 44vw;
+  align-self: center;
+  overflow: hidden;
+  border-radius: 1em;
+}
+.searchInput{
+  z-index: 1;
+}
+.scroolable {
+width: 40vw;
+    border-radius:0 0 2em 2em;
+  overflow: hidden;
+  position: relative;
+  top: -15px;
+}

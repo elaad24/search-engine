@@ -1,0 +1,6 @@
+.scrollbox{
+    max-height: 40vh;
+    width: 40vw;
+      overflow-y: auto;
+      overflow-x: hidden;
+}

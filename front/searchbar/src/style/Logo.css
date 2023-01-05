@@ -1,0 +1,17 @@
+.position{
+    position: absolute;
+    left: 10px;
+    top: 0;
+}
+
+.title {
+  color: white;
+  text-transform: capitalize;
+  font-size: 3em;
+}
+
+.dot {
+    color: greenyellow;
+    font-size: 4em;
+
+}

@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+
+.mainBox {
+  position: relative;
+  top: 10px;
+  background-color: #fff;
+  width: 40vw;
+  padding: 5px 0 5px 15px;
+  text-align: start;
+}
+
+.headers {
+  text-align: start;
+}
+.firstHeader {
+  font-size: 1.3em;
+  font-weight: 600;
+}
+.secondHeader {
+  font-size: 0.9em;
+  color: red;
+  font-weight: 600;
+}
+
+.AllbtnsDiv {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
